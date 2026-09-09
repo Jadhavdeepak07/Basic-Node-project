@@ -38,7 +38,7 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/acemilyalcin/sample-node-project.git
+git clone Https://github.com/Jadhavdeepak07/Basic-Node-project.git
 cd sample-node-project
 ```
 
